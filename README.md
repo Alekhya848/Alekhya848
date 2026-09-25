@@ -1,4 +1,4 @@
-# 💫 About Me :
+# 💫 About Me:
 🔭 I'm currently working on AI/ML projects, web development, and improving my coding skills.<br><br>👯 I'm looking to collaborate on beginner-friendly open-source projects, hackathons, and AI-based applications.<br><br>🤝 I'm looking for help with Machine Learning, Backend Development, and Open Source contributions.<br><br>🌱 I'm currently learning Data Structures & Algorithms (DSA), Java, Python, Git/GitHub, and Machine Learning.<br><br>💬 Ask me about Java, Python, GitHub, AI/ML basics, and beginner coding projects.<br><br>⚡ Fun fact: I love turning ideas into real projects and enjoy learning new technologies through hackathons and hands-on practice.
 
 
